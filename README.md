@@ -1,2 +1,3 @@
-# lesson11s
-Lesson 11 - Git
+# Web Developer Course
+## Lesson 11 - Git
+This is the README file.
